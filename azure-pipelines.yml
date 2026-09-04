@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: alfacorp-pool
+  name: alfacorp-agent-1
 
 steps:
 - task: Maven@3
